@@ -1,1 +1,1 @@
-this my first project for the 0x02 shell redirection
+this is my first README for shellnredirections
